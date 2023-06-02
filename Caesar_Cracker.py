@@ -1,4 +1,5 @@
 import customtkinter as ctk
+import tkinter as tk
 
 list_alphabet_lower = [chr(i) for i in range(97,123)]
 num_list = [num for num in range(1,27)]
