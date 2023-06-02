@@ -11,11 +11,11 @@ To encrypt the message, we start by assigning each letter of the alphabet a numb
 
 To decrypt the message, we simply reverse the process. We start by assigning each letter of the alphabet a number, starting with A = 0 and Z = 25. Then, we subtract the specified number of positions from each letter in the ciphertext. In this case, we are using a shift of 3, so D becomes A, E becomes B, and so on. The plaintext is then created by reading off the letters corresponding to the decrypted numbers.
 
-## Cracking Caesar Cipher: -
+# Cracking Caesar Cipher: -
 
 The Caesar cipher is a very simple cipher, and it can be easily broken by a skilled cryptanalyst. Here, I have used a brute-forcing approach. You enter the encrypted message, and the app generates all 25 possible plain text combinations.
 
-## GUI: -
+# GUI: -
 ![image](https://github.com/Shaunak-Natu/Caesar-Cracker/assets/78775456/f488279c-9785-43d3-9196-a60db21d3f0d)
 
 
