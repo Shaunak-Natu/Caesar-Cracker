@@ -16,10 +16,9 @@ To decrypt the message, we simply reverse the process. We start by assigning eac
 The Caesar cipher is a very simple cipher, and it can be easily broken by a skilled cryptanalyst. Here, I have used a brute-forcing approach. You enter the encrypted message, and the app generates all 25 possible plain text combinations.
 
 ## GUI: -
-![image](https://github.com/Shaunak-Natu/Caesar-Cracker/assets/78775456/1afa5309-808c-47a5-a586-354fe8ef3d3b)
+![image](https://github.com/Shaunak-Natu/Caesar-Cracker/assets/78775456/f488279c-9785-43d3-9196-a60db21d3f0d)
 
-
-### Other Methods: -
+## Other Methods: -
 1. Frequency Analysis
 
 
