@@ -18,7 +18,5 @@ The Caesar cipher is a very simple cipher, and it can be easily broken by a skil
 ## GUI: -
 ![image](https://github.com/Shaunak-Natu/Caesar-Cracker/assets/78775456/f488279c-9785-43d3-9196-a60db21d3f0d)
 
-## Other Methods: -
-1. Frequency Analysis
 
 
